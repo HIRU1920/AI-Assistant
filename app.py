@@ -28,7 +28,7 @@ st.set_page_config(
 st.markdown("""
     <h1 style='text-align: center;'>
         <span style='color: #b35cdb;'>Beru</span> 
-        <span style='color: #b35cdb;'>Assistant</span>
+        <span style='color: #f5f8fc;'>Assistant</span>
     </h1>
 """, unsafe_allow_html=True)
 
