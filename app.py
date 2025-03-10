@@ -52,6 +52,7 @@ voices = {
     "James":"en-PH-JamesNeural",
     "Jenny":"en-US-JennyNeural",
     "Sawara":"hi-IN-SwaraNeural",
+    "Dhwani":"gu-IN-DhwaniNeural",
 }
 
 @st.cache_data
