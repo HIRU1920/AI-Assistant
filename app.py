@@ -27,7 +27,7 @@ st.set_page_config(
 ###--- Title ---###
 st.markdown("""
     <h1 style='text-align: center;'>
-        <span style='color: #F81F6F;'>AI</span> 
+        <span style='color: #F81F6F;'>Beru</span> 
         <span style='color: #f5f8fc;'>Assistant</span>
     </h1>
 """, unsafe_allow_html=True)
