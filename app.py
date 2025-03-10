@@ -17,7 +17,7 @@ import asyncio
 import edge_tts
 
 st.set_page_config(
-    page_title=" AI Assistant",
+    page_title=" Beru Assistant",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="auto",
