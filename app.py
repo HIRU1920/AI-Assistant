@@ -406,11 +406,11 @@ with st.sidebar:
     st.logo(image="assets/logo.png")
     api_cols = st.columns(2)
     with api_cols[0]:
-        with st.popover("🔐 Groq", use_container_width=True):
+        with st.popover("⚡ Groq", use_container_width=True):
             groq_api_key = st.text_input("Click [here](https://console.groq.com/keys) to get your Groq API key", type="password")
     
     with api_cols[1]:
-        with st.popover("🔐 Google", use_container_width=True):
+        with st.popover("❄ Gemini", use_container_width=True):
             google_api_key = st.text_input("Click [here](https://aistudio.google.com/app/apikey) to get your Google API key", type="password")
  
 ##--- API KEY CHECK ---##
